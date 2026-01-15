@@ -14,7 +14,7 @@ langchain==0.2.8
 langchain-community==0.2.7
 marshmallow==3.21.3
 marshmallow-enum==1.5.1
-multidict==6.0.5
+multidict==6.7.0
 mypy-extensions==1.0.0
 numexpr==2.10.1
 numpy==1.26.4
